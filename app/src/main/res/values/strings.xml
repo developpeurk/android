@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Yassine Lambarki</string>
+    <string name="welcome">welcome</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="username_is_mandatory">Username is mandatory</string>
+    <string name="password_is_mandatory">password is mandatory</string>
+    <string name="user_credentials">User credentials</string>
+</resources>

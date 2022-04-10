@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ياسين المباركي</string>
+    <string name="welcome">مرحبا</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">باسوورد</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="username_is_mandatory">اسم المستخدم ضروري</string>
+    <string name="password_is_mandatory">كلمة المرور ضرورية</string>
+    <string name="user_credentials">معلومات المستخدم</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yassine Lambarki</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="username">Nom d\'utilistateur</string>
+    <string name="password">mot de passe</string>
+    <string name="login">S\' identifier</string>
+    <string name="username_is_mandatory">Le nom d\'utilisateur est obligatoire</string>
+    <string name="password_is_mandatory">le mot de passe est obligatoire</string>
+    <string name="user_credentials">Informations d\'identification de l\'utilisateur</string>
+</resources>
